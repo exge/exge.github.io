@@ -24,9 +24,13 @@ github_username: exge
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+
+# Hacker theme settings
+show_downloads: true
+google_analytics: UA-123498078-1
 
 # Jekyll admin settings
 #  jekyll_admin:
